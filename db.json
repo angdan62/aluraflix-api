@@ -2,66 +2,66 @@
   "videos":[
     {
       "id": 1,
-      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
-      "descricao": "Presentará a dos expertos que discutirán cómo el desarrollo del lado del servidor maneja la lógica, datos y seguridad para crear sistemas robustos y escalables.",
-      "imagem": "https://i.ytimg.com/vi/Z024LSCMqFk/mqdefault.jpg",
-      "link": "https://www.youtube.com/embed/Z024LSCMqFk",
+      "titulo": "Cómo volverse un desarrollador Front End #AluraTips",
+      "descricao": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+      "imagem": "https://i.ytimg.com/vi/-Ou5c3A225k/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/-Ou5c3A225k",
       "categoria": "FRONT END"
     },
     {
       "id": 2,
-      "titulo": "Como testar seu Front-end? com Mario Souto",
-      "descricao": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar.",
-      "imagem": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg",
-      "link": "https://www.youtube.com/embed/CaTbfdsVydE",
+      "titulo": "Equipo Front End #AluraMás",
+      "descricao": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "imagem": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/rpvrLaBQwgg",
       "categoria": "FRONT END"
     },
     {
       " id:": 3,
-      "titulo": "Guia de carreira Front-end",
-      "descricao": "Nesse episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado.",
-      "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg",
-      "link": "https://www.youtube.com/embed/fpth65ts3cw",
+      "titulo": "¿Cómo un desarrollador Front End utiliza el Figma? #AluraMás",
+      "descricao": "¿Cómo un desarrollador Front End utiliza el Figma? En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
+      "imagem": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/UuAX5azcvDQ",
       "categoria": "FRONT END"
     },
     {
       "id": 4,
-      "titulo": "Métricas para o Front End com Mario Souto",
-      "descricao": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site.",
-      "imagem": "https://i.ytimg.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
-      "link": "https://www.youtube.com/embed/iVNR-6v8lZU",
+      "titulo": "¿Por qué utilizar React?",
+      "descricao": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. Harland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end.",
+      "imagem": "https://i.ytimg.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/MnBNPA45NW8",
       "categoria": "FRONT END"
     },
     {
       "id": 5,
-      "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
-      "descricao": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
-      "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg",
-      "link": "https://www.youtube.com/embed/fiPfvylj6rk",
+      "titulo": "Explorando el poder del Back-End en el Desarrollo Web",
+      "descricao": "Presentará a dos expertos que discutirán cómo el desarrollo del lado del servidor maneja la lógica, datos y seguridad para crear sistemas robustos y escalables.",
+      "imagem": "https://i.ytimg.com/vi/Z024LSCMqFk/mqdefault.jpg",
+      "link": "https://www.youtube.com/embed/Z024LSCMqFk",
       "categoria": "BACK END"
     },
     {
       "id": 6,
-      "titulo": "Como se tornar um desenvolvedor BACKEND?",
-      "descricao": "Recentemente fiz um video passo a passo sobre como se tornar um desenvolvedor Frontend e atendendo a pedidos, volto aqui com um passo a passo, um RoadMap de tudo que você precisa saber para se tornar um desenvolvedor Backend. ",
-      "imagem": "https://i.ytimg.com/vi/wXMlMsDvk2M/sddefault.jpg",
-      "link": "https://www.youtube.com/embed/wXMlMsDvk2M",
+      "titulo": "Ruta de Aprendizaje Backend | Empieza como Desarrollador Back-end",
+      "descricao": "Guiará a los participantes a través de los conceptos esenciales del desarrollo del lado del servidor, desde los fundamentos hasta las mejores prácticas para construir sistemas eficientes y escalables.",
+      "imagem": "https://i.ytimg.com/vi/zEMckpneROc/hqdefault.jpg",
+      "link": "https://www.youtube.com/embed/zEMckpneROc",
       "categoria": "BACK END"
     },
     {
       "id": 7,
-      "titulo": "Como Estudar PROGRAMAÇÃO | Guia Back-End",
-      "descricao": "Quer ser um desenvolvedor back-end? Hoje vamos falar um pouco sobre o que é necessário estudar para você se tornar um programador back-end.",
-      "imagem": "https://i.ytimg.com/vi/LbKDxQ0jX90/maxresdefault.jpg",
-      "link": "https://www.youtube.com/embed/LbKDxQ0jX90",
+      "titulo": "Esto Aprendería del BACKEND (si pudiera volver a empezar)",
+      "descricao": "Hoy vengo a hablarte de 25 conceptos esenciales que deberías conocer si quieres acabar programando para el lado del servidor. Ser programador backend parece fácil, pero la realidad es que hay muchas personas que buscan tutoriales cobre el backend, o qué es lo que tienen que aprender para poder ser backend. ",
+      "imagem": "https://i.ytimg.com/vi/RbWFJRHhF2M/maxresdefault.jpg",
+      "link": "https://www.youtube.com/embed/RbWFJRHhF2M",
       "categoria": "BACK END"
     },
     {
       "id": 8,
-      "titulo": "Diferença entre Back-End e Front-End com Mario Souto",
-      "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? ",
-      "imagem": "https://i.ytimg.com/vi/xrRy3RI3HE4/sddefault.jpg",
-      "link": "https://www.youtube.com/embed/xrRy3RI3HE4",
+      "titulo": "Live Café Punto Tech - ¿Cómo es el día a día de un desarrollador Front End?",
+      "descricao": "Para ser un buen profesional es necesario estar siempre actualizándose y en esta Live de Cafe Punto Tech, los desarrolladores de Front End Harland Lohora, Salvador Emmanuel y Juan Pablo Inzunza explicarán cómo es el día a día de este puesto en la tecnología.",
+      "imagem": "https://i.ytimg.com/vi/rf7Yb1INgtQ/sddefault.jpg",
+      "link": "https://www.youtube.com/embed/rf7Yb1INgtQ",
       "categoria": "FRONT END"
     },
     {
